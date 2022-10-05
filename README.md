@@ -29,8 +29,7 @@ You can also clone a repository on another computer, just in case you do not hav
 
 When setting up a new project:
   1. Open .md file from the text editor
-  2. Open Github
-        a. Create a new project
+  2. Open Github -> Create a new project
   3. Find out the clone url 
   4. Add the remote
      
