@@ -37,4 +37,18 @@ When finished with a project, you first have to create a feature branch. Once co
 
 Part 2 
 
-**Branch**-
+**Branch**- allows the user to develop features, fix bugs, experiment with any ideas they may have in a certain area of the repository. The branch is created from an already existing branch.
+**Clone**- allows the user to get an existing repository and make a copy of it in a new directory elsewhere.
+**Commit**- a commit is a change to a single file or multiple files. When the user makes a commit to save their work, Git makes a unique ID to let the user see any changes they have made in the past. They can also see who made the changes and when.
+**Fetch**- a primary command that downloads the contents from a remote repository.
+**GIT**- an open source software that allows people to distribute files, code, etc.. Usually used when working in teams or coordination.
+**Github**- a distributed version-control platform where users can work together and collaborate on open source code projects.
+**Merge**- can put forked history back together 
+**Merge Conflict**- this happens when the branches with competing commits merge
+**Push**- uploads the local repository content to a remote repository 
+**Pull**- fetches and downloads contents from a remote repository and can immediately update the local repository to match content
+**Remote**- the common repository that any team member can use to exchange any modifications or edits that were made 
+**Repository**- contains all of the project files and each files edit history
+
+Sources
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
